@@ -1,0 +1,23 @@
+.body{
+    overflow: hidden;
+}
+
+.circle{
+    position:absolute;
+ width: 100%;
+    overflow-x: hidden;
+    height: 1177px;
+
+}
+
+.ellipse{
+    position:absolute;
+    left: 320px;
+    top: -645px;
+    width: 100%;
+    height: 1177px;
+    background-color: #FFEEDE;
+    border-radius: 50%;
+    overflow-x: hidden;
+    z-index: 0;
+}
